@@ -1,0 +1,19 @@
+# Diretórios de build
+bin/
+out/
+
+# Arquivos da IDE
+.settings/
+.project
+.classpath
+
+# Arquivos temporários e de cache
+*.log
+*.tmp
+*.swp
+
+# Arquivos do sistema
+Thumbs.db  # Arquivo de sistema Windows
+
+# Arquivos de configuração sensíveis
+*.env
